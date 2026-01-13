@@ -35,24 +35,6 @@ NLP-Learning-Repository/
 │   ├── 03_svm_text_classification.ipynb
 │   └── evaluation_metrics.md
 │
-├── 04_sequence_models/
-│   ├── 01_rnn_from_scratch.ipynb
-│   ├── 02_lstm_gru.ipynb
-│   └── 03_sequence_labeling_pos_ner.ipynb
-│
-├── 05_transformers/
-│   ├── 01_attention_mechanism.ipynb
-│   ├── 02_transformer_from_scratch.ipynb
-│   ├── 03_bert_introduction.ipynb
-│   ├── gpt_overview.md
-│   └── 04_ine_tuning_transformers.ipynb
-│
-├── 06_llms_and_genai/
-│   ├── 01_prompt_engineering.md
-│   ├── llm_architecture.md
-│   ├── 03_rag_pipeline.ipynb
-│   └── vector_databases.md
-│
 ├── 07_projects/
 │   ├── sentiment_analysis/
 │   │   ├── data/
@@ -63,13 +45,7 @@ NLP-Learning-Repository/
 │   ├── chatbot_basic/
 │   └── resume_parser/
 │
-├── 08_research_notes/
-│   ├── word_embeddings_survey.md
-│   ├── transformer_papers.md
-│   └── nlp_future_trends.md
-│
 ├── datasets/
-│   └── sample_text_data.csv
 │
 ├── NLP_Note_PDF 
 ├── requirements.txt
