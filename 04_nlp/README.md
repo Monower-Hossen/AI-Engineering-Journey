@@ -35,7 +35,7 @@ NLP-Learning-Repository/
 │   ├── 03_svm_text_classification.ipynb
 │   └── evaluation_metrics.md
 │
-├── 07_projects/
+├── 04_projects/
 │   ├── sentiment_analysis/
 │   │   ├── data/
 │   │   ├── model.ipynb
