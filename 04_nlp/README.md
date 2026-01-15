@@ -29,13 +29,27 @@ NLP-Learning-Repository/
 │   ├── 04_fasttext_embeddings.ipynb
 │   └── embedding_comparison.md
 │
-├── 03_classical_nlp_models/
+├── 03_linguistic_features/
+│   ├── 01_pos_tagging.ipynb
+│   ├── 02_chunking.ipynb
+│   ├── 03_named_entity_recognition.ipynb
+│   └── 04_dependency_parsing.ipynb
+│ 
+├── 04_topic_modeling/
+│   ├── lda_topic_modeling.ipynb
+│   └── nmf_topic_modeling.ipynb
+│
+├── 05_information_retrieval/
+│   ├── text_similarity.ipynb
+│   └── document_search.ipynb
+│ 
+├── 06_classical_nlp_models/
 │   ├── 01_naive_bayes_text.ipynb
 │   ├── 02_logistic_regression_nlp.ipynb
 │   ├── 03_svm_text_classification.ipynb
 │   └── evaluation_metrics.md
 │
-├── 04_projects/
+├── 07_projects/
 │   ├── sentiment_analysis/
 │   │   ├── data/
 │   │   ├── model.ipynb
