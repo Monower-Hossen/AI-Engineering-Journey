@@ -3,7 +3,6 @@
 📂 `00_prerequisites/`
 
 - Python (basic → advanced)
-- OOP 
 - Data Structures
 - NumPy
 - Pandas
