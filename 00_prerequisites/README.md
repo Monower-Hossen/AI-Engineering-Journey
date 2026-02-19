@@ -21,7 +21,7 @@ This section focuses on:
 
 ## Foundational Domains
 
-### 1. Python (Basic → Advanced)
+### 📂 1. Python (Basic → Advanced)
 
 Core programming language for AI development.
 
@@ -38,7 +38,7 @@ Core programming language for AI development.
 Ability to write modular, scalable, and production-ready Python code.
 
 
-### 2. Data Structures
+### 📂 2. Data Structures
 
 Understanding how data is organized and manipulated efficiently.
 
@@ -55,7 +55,7 @@ Understanding how data is organized and manipulated efficiently.
 Ability to analyze and optimize algorithm performance.
 
 
-### 3. Numerical Computing (NumPy)
+### 📂 3. Numerical Computing (NumPy)
 
 Numerical computing foundation for Machine Learning.
 
@@ -70,7 +70,7 @@ Numerical computing foundation for Machine Learning.
 Efficient mathematical computation using arrays and matrices.
 
 
-### 4. Data Engineering Fundamentals (Pandas)
+### 📂 4. Data Engineering Fundamentals (Pandas)
 
 Data manipulation and preprocessing library.
 
@@ -87,7 +87,7 @@ Ability to preprocess real-world structured datasets.
 
 
 
-### 5. Statistics & Probability
+### 📂 5. Statistics & Probability
 
 The backbone of Machine Learning theory.
 
@@ -104,7 +104,7 @@ Develop statistical reasoning for model evaluation and uncertainty estimation.
 
 
 
-### 6. Linear Algebra
+### 📂 6. Linear Algebra
 
 Mathematical language of Machine Learning.
 
@@ -121,7 +121,7 @@ Understand how ML models transform data in high-dimensional space.
 
 
 
-### 7. Calculus
+### 📂 7. Calculus
 
 Foundation of optimization in ML.
 
@@ -138,7 +138,7 @@ Understand gradient descent and backpropagation mechanisms.
 
 
 
-### 8. Git & GitHub
+### 📂 8. Git & GitHub
 
 Professional software development workflow.
 
