@@ -177,12 +177,6 @@ This section is considered complete when:
 - All work is properly documented
 
 
-
-## Next Module
-
-01_data_analysis/
-
-
 ## Next Module
 
 01_data_analysis/
