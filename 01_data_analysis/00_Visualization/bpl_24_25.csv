@@ -1,0 +1,47 @@
+﻿season,match_no,date,team_1,team_1_score,team_1_wicket,team_2,team_2_score,team_2_wicket,player_of_match,toss_winner,toss_decision,winner,venue,city,win_by_wickets,win_by_runs,result,umpire_1,umpire_2
+2024/25,1st,Dec 30 2024,Durbar Rajshahi,197,3,Fortune Barishal,200,6,Mahmudullah,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,4,0,4 wickets,Asif Yaqoob,Masudur Rahman
+2024/25,2nd,Dec 30 2024,Rangpur Riders,196,6,Dhaka Capital,151,9,Khushdil Shah,Dhaka Capital,field first,Rangpur Riders,SBNCS,Mirpur,0,40,40 runs,Mahfuzur Rahman,RR Wimalasiri
+2024/25,3rd,Dec 31 2024,Khulna Tigers,203,4,Chittagong Kings,166,10,Mahidul Islam Ankon,Chittagong Kings,field first,Khulna Tigers,SBNCS,Mirpur,0,37,37 runs,Tanvir Ahmed,RR Wimalasiri
+2024/25,4th,Dec 31 2024,Rangpur Riders,155,6,Sylhet Strikers,121,9,Nahid Rana,Rangpur Riders,bat first,Rangpur Riders,SBNCS,Mirpur,0,34,34 runs,Asif Yaqoob,Gazi Sohel
+2024/25,5th,Jan 2 2025,Dhaka Capital,174,9,Durbar Rajshahi,179,3,Taskin Ahmed,Dhaka Capital,bat first,Durbar Rajshahi,SBNCS,Mirpur,7,0,7 wickets,Mahfuzur Rahman,RR Wimalasiri
+2024/25,6th,Jan 2 2025,Fortune Barishal,124,10,Rangpur Riders,128,2,Saif Hassan,Rangpur Riders,field first,Rangpur Riders,SBNCS,Mirpur,8,0,8 wickets,Mahfuzur Rahman,Morshed Ali Khan
+2024/25,7th,Jan 3 2025,Chittagong Kings,219,5,Durbar Rajshahi,114,10,Usman Khan,Durbar Rajshahi,field first,Chittagong Kings,SBNCS,Mirpur,0,105,105 runs,Muhammad Kamruzzaman,Asif Yaqoob
+2024/25,8th,Jan 3 2025,Khulna Tigers,173,8,Dhaka Capital,153,6,Mehidy Hasan Miraz,Dhaka Capital,field first,Khulna Tigers,SBNCS,Mirpur,0,20,20 runs,RR Wimalasiri,Gazi Sohel
+2024/25,9th,Jan 6 2025,Sylhet Strikers,205,4,Rangpur Riders,210,2,Alex Hales,Rangpur Riders,field first,Rangpur Riders,SylhetICS,SylhetI,8,0,8 wickets,Asif Yaqoob,Moniruzzaman
+2024/25,10th,Jan 6 2025,Durbar Rajshahi,168,4,Fortune Barishal,169,3,Tamim Iqbal,Fortune Barishal,field first,Fortune Barishal,SylhetICS,SylhetI,7,0,7 wickets,RR Wimalasiri,Mahfuzur Rahman
+2024/25,11th,Jan 7 2025,Dhaka Capital,111,10,Rangpur Riders,113,3,Nahid Rana,Rangpur Riders,field first,Rangpur Riders,SylhetICS,SylhetI,7,0,7 wickets,RR Wimalasiri,Tanvir Ahmed
+2024/25,12th,Jan 7 2025,Sylhet Strikers,125,10,Fortune Barishal,126,3,Jahandad Khan,Fortune Barishal,field first,Fortune Barishal,SylhetICS,SylhetI,7,0,7 wickets,Asif Yaqoob,Morshed Ali Khan
+2024/25,13th,Jan 9 2025,Fortune Barishal,197,5,Rangpur Riders,202,7,Nurul Hasan,Rangpur Riders,field first,Rangpur Riders,SylhetICS,SylhetI,3,0,3 wickets,Ali Arman,Asif Yaqoob
+2024/25,14th,Jan 9 2025,Dhaka Capital,177,5,Chittagong Kings,180,3,Khaled Ahmed,Chittagong Kings,field first,Chittagong Kings,SylhetICS,SylhetI,7,0,7 wickets,Gazi Sohel,Morshed Ali Khan
+2024/25,15th,Jan 10 2025,Durbar Rajshahi,178,5,Khulna Tigers,150,10,Ryan Burl,Khulna Tigers,field first,Durbar Rajshahi,SylhetICS,SylhetI,0,28,28 runs,RR Wimalasiri,Tanvir Ahmed
+2024/25,16th,Jan 10 2025,Dhaka Capital,193,6,Sylhet Strikers,195,7,Zakir Hasan,Dhaka Capital,bat first,Sylhet Strikers,SylhetICS,SylhetI,3,0,3 wickets,Asif Yaqoob,Masudur Rahman
+2024/25,17th,Jan 12 2025,Sylhet Strikers,182,5,Khulna Tigers,174,9,Zakir Hasan,Khulna Tigers,field first,Sylhet Strikers,SylhetICS,SylhetI,0,8,8 runs,RR Wimalasiri,Gazi Sohel
+2024/25,18th,Jan 12 2025,Dhaka Capital,254,1,Durbar Rajshahi,105,10,Litton Das,Durbar Rajshahi,field first,Dhaka Capital,SylhetICS,SylhetI,0,149,149 runs,Asif Yaqoob,Morshed Ali Khan
+2024/25,19th,Jan 13 2025,Chittagong Kings,203,6,Sylhet Strikers,173,8,Graham Clark,Sylhet Strikers,field first,Chittagong Kings,SylhetICS,SylhetI,0,30,30 runs,Ali Arman,Asif Yaqoob
+2024/25,20th,Jan 13 2025,Rangpur Riders,186,5,Khulna Tigers,178,9,Akif Javed,Rangpur Riders,bat first,Rangpur Riders,SylhetICS,SylhetI,0,8,8 runs,Masudur Rahman,RR Wimalasiri
+2024/25,21st,Jan 16 2025,Dhaka Capital,139,10,Fortune Barishal,145,10,Tamim Iqbal,Dhaka Capital,bat first,Fortune Barishal,ZACS,Chattogram,8,0,8 wickets,Moniruzzaman,Asif Yaqoob
+2024/25,22nd,Jan 16 2025,Chittagong Kings,200,7,Khulna Tigers,155,9,Graham Clark,Khulna Tigers,field first,Chittagong Kings,ZACS,Chattogram,0,45,45 runs,Sharfuddoula,Mahfuzur Rahman
+2024/25,23rd,Jan 17 2025,Durbar Rajshahi,184,7,Sylhet Strikers,119,10,Sunzamul Ialam,Durbar Rajshahi,bat first,Durbar Rajshahi,ZACS,Chattogram,0,65,65 runs,Ali Arman,RR Wimalasiri
+2024/25,24th,Jan 17 2025,Rangpur Riders,164,7,Chittagong Kings,131,8,Khushdil Shah,Chittagong Kings,field first,Rangpur Riders,ZACS,Chattogram,0,33,33 runs,Masudur Rahman,Sharfuddoula
+2024/25,25th,Jan 19 2025,Chittagong Kings,121,8,Fortune Barishal,122,4,Dawid Malan,Fortune Barishal,field first,Fortune Barishal,ZACS,Chattogram,6,0,6 wickets,Sharfuddoula,Tanvir Ahmed
+2024/25,26th,Jan 19 2025,Khulna Tigers,209,4,Durbar Rajshahi,202,4,Hasan Mahmud,Khulna Tigers,bat first,Khulna Tigers,ZACS,Chattogram,0,7,7 runs,Asif Yaqoob,Gazi Sohel
+2024/25,27th,Jan 20 2025,Dhaka Capital,196,6,Sylhet Strikers,190,7,Thisara Perera,Dhaka Capital,bat first,Dhaka Capital,ZACS,Chattogram,0,6,6 runs,Muhammad Kamruzzaman,Morshed Ali Khan
+2024/25,28th,Jan 20 2025,Chittagong Kings,191,8,Durbar Rajshahi,80,10,Naeem Islam,Durbar Rajshahi,field first,Chittagong Kings,ZACS,Chattogram,0,111,111 runs,Masudur Rahman,Gazi Sohel
+2024/25,29th,Jan 21 2025,Chittagong Kings,148,6,Dhaka Capital,149,2,Tanzid Hasan,Chittagong Kings,bat first,Dhaka Capital,ZACS,Chattogram,8,0,8 wickets,Muhammad Kamruzzaman,Gazi Sohel
+2024/25,30th,Jan 21 2025,Fortune Barishal,167,9,Khulna Tigers,160,6,Rishad Hossain,Khulna Tigers,field first,Fortune Barishal,ZACS,Chattogram,0,7,7 runs,Sharfuddoula,Morshed Ali Khan
+2024/25,31st,Jan 23 2025,Durbar Rajshahi,170,9,Rangpur Riders,146,10,Ryan Burl,Rangpur Riders,field first,Durbar Rajshahi,ZACS,Chattogram,0,24,24 runs,Gazi Sohel,Tanvir Ahmed
+2024/25,32nd,Jan 23 2025,Sylhet Strikers,152,9,Khulna Tigers,156,4,Mehidy Hasan Miraz,Sylhet Strikers,bat first,Khulna Tigers,ZACS,Chattogram,6,0,6 wickets,Masudur Rahman,Morshed Ali Khan
+2024/25,33rd,Jan 26 2025,Sylhet Strikers,116,10,Fortune Barishal,120,2,Faheem Ashraf,Sylhet Strikers,bat first,Fortune Barishal,SBNCS,Mirpur,8,0,8 wickets,RR Wimalasiri,Tanvir Ahmed
+2024/25,34th,Jan 26 2025,Durbar Rajshahi,119,9,Rangpur Riders,117,8,Mrittunjoy Chowdhury,Rangpur Riders,field first,Durbar Rajshahi,SBNCS,Mirpur,2,0,2 runs,Muhammad Kamruzzaman,Sharfuddoula
+2024/25,35th,Jan 27 2025,Khulna Tigers,187,5,Fortune Barishal,188,5,Dawid Malan,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,5,5 wickets,Mahfuzur Rahman,Sharfuddoula
+2024/25,36th,Jan 27 2025,Sylhet Strikers,117,9,Rangpur Riders,121,5,SM Meherob,Durbar Rajshahi,field first,Durbar Rajshahi,SBNCS,Mirpur,0,5,5 wickets,Asif Yaqoob,Sajedul Islam
+2024/25,37th,Jan 28 2025,Rangpur Riders,143,5,Chittagong Kings,148,5,Haider Ali,Chittagong Kings,field first,Chittagong Kings,SBNCS,Mirpur,0,5,5 wickets,Asif Yaqoob,Morshed Ali Khan
+2024/25,38th,Jan 28 2025,Dhaka Capital,73,10,Fortune Barishal,77,1,Tanvir Islam,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,9,9 wickets,Mahfuzur Rahman,Sharfuddoula
+2024/25,39th,Jan 30 2025,Khulna Tigers,220,4,Rangpur Riders,174,9,Mohammad Naim,Khulna Tigers,bat first,Khulna Tigers,SBNCS,Mirpur,46,0,46 runs,Tanvir Ahmed,RR Wimalasiri
+2024/25,40th,Jan 30 2025,Chittagong Kings,196,8,Sylhet Strikers,100,10,Shoriful Islam,Sylhet Strikers,field first,Chittagong Kings,SBNCS,Mirpur,96,0,96 runs,Gazi Sohel,Morshed Ali Khan
+2024/25,41st,Feb 1 2025,Dhaka Capital,123,9,Khulna Tigers,128,4,Mehidy Hasan Miraz,Dhaka Capital,bat first,Khulna Tigers,SBNCS,Mirpur,0,6,6 wickets,Mahfuzur Rahman,Morshed Ali Khan
+2024/25,42nd,Feb 1 2025,Chittagong Kings,206,4,Fortune Barishal,182,7,Parvez Hossain Emon,Fortune Barishal,field first,Chittagong Kings,SBNCS,Mirpur,24,0,24 runs,Masudur Rahman,RR Wimalasiri
+2024/25,Eliminator,Feb 3 2025,Rangpur Riders,85,10,Khulna Tigers,89,1,Nasum Ahmed,Rangpur Riders,bat first,Khulna Tigers,SBNCS,Mirpur,0,9,9 wickets,RR Wimalasiri,Masudur Rahman
+2024/25,Qualifier 1,Feb 3 2025,Chittagong Kings,149,9,Fortune Barishal,150,1,Mohammad Ali,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,9,9 wickets,Asif Yaqoob,Morshed Ali Khan
+2024/25,Qualifier 2,Feb 5 2025,Khulna Tigers,163,6,Chittagong Kings,164,8,Al Islam,Chittagong Kings,field first,Chittagong Kings,SBNCS,Mirpur,0,2,2 wickets,Gazi Sohel,RR Wimalasiri
+2024/25,Final,Feb 7 2025,Chittagong Kings,194,7,Fortune Barishal,195,7,Tamim Iqbal,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,3,3 wickets,Gazi Sohel,Masudur Rahman
