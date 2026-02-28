@@ -18,7 +18,7 @@
 - Visualization (Matplotlib, Seaborn, Plotly)
 - Data cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- SQL for Data Analysis
+- SQL for AI Engineering
 - Mini projects & dashboards
 - README
 
