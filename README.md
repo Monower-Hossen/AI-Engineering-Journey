@@ -3,22 +3,22 @@
 📂 `00_prerequisites/`
 
 - Python (basic → advanced)
-- Data Structures
+- Data Structures & Algorithms
 - NumPy
 - Pandas
 - Statistics & Probability
 - Linear Algebra
-- Calculus
+- Calculus (ML-focused)
 - Git & GitHub
 - README
 
 
 📂 `01_data_analysis/`
 
-- Data cleaning
-- Exploratory Data Analysis (EDA)
 - Visualization (Matplotlib, Seaborn, Plotly)
-- SQL queries
+- Data cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL for Data Analysis
 - Mini projects & dashboards
 - README
 
@@ -28,6 +28,7 @@
 - Unsupervised learning
 - Feature engineering
 - Model evaluation
+- Cross Validation
 - Hyperparameter tuning
 - End-to-end ML projects
 - README
@@ -35,12 +36,18 @@
 
 📂 `03_deep_learning/`
 
-- Neural networks (MLP)
-- CNN, RNN, LSTM, GRU
-- TensorFlow & PyTorch
+- MLP (Multi-Layer Perceptron)
+- CNN (Computer Vision)
+- RNN, LSTM, GRU (Sequence Models)
+- Transfer Learning
+- Model Optimization
 - Deep learning projects
 - README
 
+### Frameworks
+
+    - TensorFlow
+    - PyTorch
 
 📂 `04_nlp/`
 
@@ -51,11 +58,12 @@
 - NLP projects
 - README
 
-## Computer Vision (Future)
+## Computer Vision(Future)
 📂 `05_computer_vision/`
 
 - Image processing
-- CNN-based models
+- CNN-based Architectures
+- Transfer Learning (ResNet, EfficientNet)
 - Object detection & segmentation
 - CV projects
 - README
@@ -67,6 +75,7 @@
 - Prompt engineering
 - PEFT (LoRA)
 - Retrieval-Augmented Generation (RAG) systems
+- Vector Databases
 - Diffusion models
 - Generative AI projects
 - README
@@ -87,10 +96,17 @@
 - Docker
 - MLflow
 - Model versioning
+- Experiment Tracking
 - Monitoring
 - CI/CD pipelines
+- Cloud Deployment
 - README
 
+### Platforms:
+
+    - AWS
+    - GCP
+    - HuggingFace Spaces
 
 📂 `capstone_projects/`
 
