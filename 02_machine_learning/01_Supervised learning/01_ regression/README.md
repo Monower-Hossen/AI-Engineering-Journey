@@ -3,7 +3,7 @@
 Supervised Learning is a type of Machine Learning where the model learns patterns from **labeled data** — meaning each input comes with a corresponding output. The goal is for the model to **predict outputs for new, unseen data** based on what it has learned.
 
 
-## 🔹 Key Concepts
+## Key Concepts
 
 - **Features (X):** Input variables used for prediction.
 - **Target (y):** Output variable the model aims to predict.
@@ -42,7 +42,7 @@ Used when the target variable is **categorical/discrete**.
 - Disease diagnosis (e.g., diabetes prediction)
 
 
-## 🔹 Tips & Best Practices
+## Tips & Best Practices
 
 1. **Feature Scaling:** Algorithms like KNN, SVM, and Logistic Regression benefit from scaling features.  
 2. **Train/Test Split:** Always split your data (e.g., 80/20) to evaluate performance fairly.  
@@ -53,7 +53,7 @@ Used when the target variable is **categorical/discrete**.
    - Classification: Accuracy, Precision, Recall, F1-Score, ROC-AUC  
 
 
-## 📖 Recommended Learning Flow
+##  Recommended Learning Flow
 
 1. Start with **Linear Regression** and evaluate with MSE/R².  
 2. Move to **Logistic Regression** for binary classification tasks.  
