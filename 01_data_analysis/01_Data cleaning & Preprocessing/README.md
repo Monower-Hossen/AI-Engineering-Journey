@@ -8,24 +8,18 @@ It includes **raw datasets, real-project cleaning examples, and detailed step-by
 
 ## 📂 Folder & File Overview
 
-| No | File / Folder | Topic | Description / Learning Focus |
-|----|---------------|-------|------------------------------|
-| 00 | `00_raw_data/` | Raw Data | Contains all raw datasets for practice and project work. |
-| 01 | `data-cleaning-real-projects/01_house_price_cleaning/` | House Price Project | Real-world data cleaning project with end-to-end preprocessing steps. |
-| 02 | `01_check missing values.ipynb` | Missing Values Check | Identify missing values and understand their impact. |
-| 03 | `02_Handling Missing Values (Dropping).ipynb` | Dropping Missing Data | Learn how to remove missing rows/columns safely. |
-| 04 | `03_Handling Missing Values (Imputing Category Data).ipynb` | Imputing Categorical Data | Fill missing categorical values using appropriate strategies. |
-| 05 | `04_Handling Missing Values (Scikit-Learn).ipynb` | Scikit-Learn Imputation | Use `SimpleImputer` and advanced imputation techniques. |
-| 06 | `05_One Hot Encoding & Dummy Variables.ipynb` | One-Hot Encoding | Transform categorical variables into binary vectors. |
-| 07 | `06_LabelEncoder.ipynb` | Label Encoding | Convert categorical labels to numerical values. |
-| 08 | `07_OrdinalEncoder.ipynb` | Ordinal Encoding | Encode ordinal categories while preserving order. |
-| 09 | `08_Outlier & Remove Outliers using IQR.ipynb` | Outlier Handling | Detect and remove outliers using the IQR method. |
-| 10 | `09_Mastering_Data_Scaling_Techniques.ipynb` | Feature Scaling | Min-Max, StandardScaler, RobustScaler, and scaling best practices. |
-| 11 | `10_Handle Duplicate Data.ipynb` | Duplicate Handling | Detect and remove duplicate rows. |
-| 12 | `11_How to Replace and Change Data Types.ipynb` | Data Type Management | Convert data types and replace values efficiently. |
-| 13 | `12_Data_Transformation.ipynb` | Data Transformation | Log, square root, and custom transformations for skewed data. |
-| 14 | `13_L1 & L2 Normalization.ipynb` | Normalization | Normalize data using L1/L2 norms for ML models. |
-| 15 | `14_discretization.ipynb` | Discretization | Bin continuous variables into categorical intervals. |
+| No | File / Folder | Description | Learning Focus |
+|----|---------------|------------|----------------|
+| 00 | `00_raw_data/` | Raw datasets uploaded for practice | Starting point for preprocessing exercises |
+| 01 | `data-cleaning-real-projects/01_house_price_cleaning/` | End-to-end house price data cleaning project | Real-world data preprocessing workflow |
+| 02 | `01_check missing values.ipynb` | Detect missing values in datasets | Understanding data completeness and missing patterns |
+| 03 | `02_Handling Missing Values (Dropping).ipynb` | Remove missing rows or columns | Safely drop missing data without losing integrity |
+| 04 | `03_Handling Missing Values (Imputing Category Data).ipynb` | Impute missing categorical values | Fill missing data using appropriate strategies |
+| 05 | `04_Handling Missing Values (Scikit-Learn).ipynb` | Use `SimpleImputer` for numeric/categorical imputation | Advanced imputation techniques for ML |
+| 06 | `05_Outlier & Remove Outliers using IQR.ipynb` | Detect and remove outliers | Use IQR method to clean datasets |
+| 07 | `06_Handle Duplicate Data.ipynb` | Detect and remove duplicate rows | Ensure dataset uniqueness |
+| 08 | `07_How to Replace and Change Data Types.ipynb` | Convert data types and replace values | Prepare features for ML algorithms |
+
 
 
 ##  Key Concepts Covered
