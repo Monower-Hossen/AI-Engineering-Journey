@@ -1,9 +1,8 @@
 # Data Cleaning & Preprocessing for Machine Learning
 
-This folder contains **comprehensive resources and practical notebooks** for data cleaning, preprocessing, feature encoding, scaling, and outlier handling—essential steps before building any Machine Learning model.
+This folder contains **comprehensive resources and practical notebooks** for data cleaning, preprocessing, outlier handling, duplicate removal, and type transformations—essential steps before applying any Machine Learning model.
 
-It includes **raw datasets, real-project cleaning examples, and detailed step-by-step Jupyter notebooks** to master data preprocessing.
-
+It includes **raw datasets, real-project examples, and step-by-step Jupyter notebooks** to master data preprocessing in real-world scenarios.
 
 
 ## 📂 Folder & File Overview
@@ -24,27 +23,32 @@ It includes **raw datasets, real-project cleaning examples, and detailed step-by
 
 ##  Key Concepts Covered
 
-- **Missing Data:** Detection, dropping, and imputation.  
-- **Encoding Categorical Variables:** One-hot, label, ordinal encoders.  
-- **Outlier Detection & Handling:** IQR, Z-score methods.  
-- **Feature Scaling & Normalization:** Min-Max, StandardScaler, RobustScaler, L1/L2 norms.  
-- **Data Transformation:** Log, square root, and custom transformations.  
-- **Duplicate Handling:** Detect and remove duplicate rows for clean datasets.  
-- **Discretization:** Convert continuous data to categorical bins.  
-- **Data Type Management:** Correct data types and replacement techniques.  
+- **Missing Data:** Detection, removal, and imputation  
+- **Outlier Detection & Handling:** IQR-based removal  
+- **Duplicate Handling:** Identify and remove repeated rows  
+- **Data Type Management:** Convert and replace feature types efficiently  
+- **Real-World Project Workflow:** Applying all techniques in a house price dataset  
 
 
+## Learning Outcomes
 
-## Learning Outcome
+By completing this folder, learners will be able to:
 
-By completing these notebooks and projects, learners will be able to:
-
-1. **Clean and preprocess real-world datasets** for Machine Learning.  
-2. Handle **missing values, duplicates, and outliers** efficiently.  
-3. Encode **categorical features** for model compatibility.  
-4. Apply **feature scaling, normalization, and data transformations** to improve model performance.  
-5. Implement **end-to-end preprocessing pipelines** for projects.  
-
+1. **Clean and preprocess real-world datasets** for Machine Learning  
+2. Handle **missing values, duplicates, and outliers** efficiently  
+3. Transform and **encode features for ML compatibility**  
+4. Execute an **end-to-end data cleaning pipeline**  
+5. Gain confidence in **preparing datasets for model training and evaluation**  
 
 
-This folder serves as a **research-quality, hands-on reference**, preparing learners for **real-world ML workflows, project development, and production-ready data pipelines**.
+## Recommended Workflow
+
+1. Start with **raw datasets** to explore missing values  
+2. Apply **dropping or imputation strategies** for missing data  
+3. Detect and remove **outliers** to improve data quality  
+4. Handle **duplicate rows** to ensure dataset uniqueness  
+5. Replace and **transform data types** for ML models  
+6. Apply the workflow on **real-project datasets** (e.g., house price project)  
+
+
+This folder is designed as a **research-quality, hands-on reference**, preparing learners for **real-world ML preprocessing pipelines and production-ready datasets**.
